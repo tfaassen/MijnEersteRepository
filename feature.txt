@@ -1,0 +1,1 @@
+ Dit is een nieuwe functie die we toevoegen aan onze repository.
